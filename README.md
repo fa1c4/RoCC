@@ -57,12 +57,10 @@ SimilarityAnalysis 文件夹给出文本相似度分析的测试代码，实验�
 
 ```json
 {
-    Entry:{
-        "TextID":number,
-        "Text":string,
-        "Pub-Time":time
+    "TextID":{
+        "Text":"string",
+        "Pub-Time":"time"
     },
-    ...
 }
 ```
 
